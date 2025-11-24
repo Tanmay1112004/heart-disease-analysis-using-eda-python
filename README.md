@@ -57,5 +57,7 @@ Target variable:
 ## 📁 Project Structure
 📦 heart-disease-analysis-eda/
 ├── heart.csv # Dataset
-├── extensive-analysis-visualization-with-python.ipynb # Jupyter notebook
-├── README.md # You’re reading it now! 
+├── extensive-analysis-visualization-with-python.ipynb
+├── README.md 
+
+
