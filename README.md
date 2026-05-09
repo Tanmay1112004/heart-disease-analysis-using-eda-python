@@ -140,7 +140,7 @@ Insight Extraction
 ## 🚀 How to Run
 
 ```bash id="run_eda1"
-git clone https://github.com/Tanmay1112004/heart-disease-analysis-eda.git
+git clone https://github.com//heart-disease-analysis-eda.git
 cd heart-disease-analysis-eda
 pip install pandas seaborn matplotlib
 jupyter notebook
